@@ -1,10 +1,4 @@
-## Welcome to my site freelancerazin
 
-
-
-### Where I work?
-
-I am working on fiverr, upwork and freelancer mainly.
 <html> 
 
 <head>
