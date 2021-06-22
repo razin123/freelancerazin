@@ -11,7 +11,7 @@
 <body> 
 
 
-<h1 class="heading1">My name is Razin Samad. </br> Welcome to my Site</h1>
+<h1 class="heading1">My name is Razin Samad.</br> Welcome to my Site</h1>
 
 <div class="logo"> 
     <img src="logo.png" alt="Logo Image" />	  
@@ -30,7 +30,7 @@
    
    <div class="stg">
    <p>
-    I am working on <a href="">fiverr</a> and upwork. </br> I really enjoy working there.
+    I am working on <a href="">fiverr</a> and upwork.</br>I really enjoy working there.
    </p> 
    </div>
 
@@ -38,10 +38,8 @@
 
  
 
-    <div class="paragraphh">
- <p> I am also working on freelancer.com and some other sites given below.</p>
-   </div>
-
+    <div class= "style2">
+     <p> I am also working on freelancer.com and some other sites given below.</p>
     </div>
 <div>
 <ul>
