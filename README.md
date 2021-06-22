@@ -5,30 +5,110 @@
 ### Where I work?
 
 I am working on fiverr, upwork and freelancer mainly.
-```markdown
-Syntax highlighted code block
+<html> 
 
-# Header 1
-## Header 2
-### Header 3
+<head>
+<title>   FreealncerRazin.com </title>
 
-- Bulleted
-- List
+<link rel="stylesheet" type="text/css" href="style.css">
 
-1. Numbered
-2. List
+</head>
 
-**Bold** and _Italic_ and `Code` text
+<body> 
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<h1 class="heading1">My name is Razin Samad.</br> Welcome to my Site</h1>
 
-### Jekyll Themes
+<div class="logo"> 
+    <img src="logo.png" alt="Logo Image" />	  
+</div>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/razin123/freelancerazin/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+ <div class="intro">
+    <div class="intro_image ">
+	   <img src="mountain1.png"/>
+	</div>
+       <div class="intro_text">
+         <h1>Whats this?</h1>
+		 <p>Is this a mountain? No! not at all.</br><i>This is the goal of life.</i></p>
+       </div>
+   
+ </div> 
+   
+   <div class="stg">
+   <p>
+    I am working on <a href="">fiverr</a> and upwork.</br>I really enjoy working there.
+   </p> 
+   </div>
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+ 
+
+    <div class= "style2">
+     <p> I am also working on freelancer.com and some other sites given below.</p>
+    </div>
+<div>
+<ul>
+<li>99 design  </li>
+<li>peopleperhour</li>
+<li>Toptal</li>
+</ul>
+</div> 
+
+<!---  Heading2 --->
+<div class="heading2">
+<h2>Follow me on-</h2>
+</div>
+<div>
+<ol>
+<li> Behance</li>
+<li>Dribbble</li>
+<li>Twitter</li>
+<li> linkedIn</li>
+<li> Pinterest</li>
+<li>OverFlow</li>
+</ol>
+</div>
+
+
+</div>
+   <div class="services">
+     <div class="service1"> 
+	       <img src="phone.png"/> 
+		   <p> 111 222 333 444</p>
+		   <p> 123 123 456 456</p>
+	 </div>
+     <div class="service2"></div>
+	 <div class="service3"></div>
+     <div class="service4"></div>
+  </div >
+</div>
+	
+
+
+<div class="intro">
+  <img src=".png" alt="Intro" />
+    <p class="intro1"> This is my intro <a href="https://www.w3schools.com/tags/tag_input.asp">Read more.....</a></p> 
+	</p>
+</div>
+
+<div class="content-area">
+</div>
+
+<div class="ending">
+</div>
+
+
+<h3>About me?</h3>
+
+<p>I am a new to the field of freelancing.
+ I have learnt Adobe Photoshop, Adobe Illustrator within a month.
+ Now I am learning html. Hope that I will start to income soon.
+</p>
+
+
+ </body>
+
+
+
+</html>
