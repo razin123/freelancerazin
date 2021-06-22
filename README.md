@@ -1,13 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to my site freelancerazin
 
 You can use the [editor on GitHub](https://github.com/razin123/freelancerazin/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Where I work?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+I am working on fiverr, upwork and freelancer mainly.
 ```markdown
 Syntax highlighted code block
 
