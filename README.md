@@ -11,7 +11,7 @@
 <body> 
 
 
-<h1 class="heading1">My name is Razin Samad.</br> Welcome to my Site</h1>
+<h1 class="heading1">My name is Razin Samad. Welcome to my Site</h1>
 
 <div class="logo"> 
     <img src="logo.png" alt="Logo Image" />	  
