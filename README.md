@@ -44,8 +44,10 @@ I am working on fiverr, upwork and freelancer mainly.
 
  
 
-    <div class= "style2">
-     <p> I am also working on freelancer.com and some other sites given below.</p>
+    <div class="paragraphh">
+ <p> I am also working on freelancer.com and some other sites given below.</p>
+   </div>
+
     </div>
 <div>
 <ul>
