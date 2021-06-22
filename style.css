@@ -1,0 +1,39 @@
+<style>
+
+.heading1 {color:white;background:url(digital.jpg);font-size:34px;text-align:center;padding:26px}
+.stg {color: white;
+    background: #9e9e9e;
+    background-size: 55px;
+    font-size: 35px;
+    padding: 20;
+    float: left;
+    width: 2000;
+    margin: 20;}
+.heading1 {color:white;background:url(digital.jpg);font-size:34px;text-align:center;padding:26px}
+.heading2 {text-align:center; color:white;background:black;background-size:30px;padding:20px;font-size:30px}
+.style2 {style=text-align:right;color:navy;font-size:25px;width:500;background:grey}
+.logo {padding:right;height:150px}
+.intro1 {font-size:35px;background:gray;padding:20px;text-align:center;color:white}
+.intro_image {width:710px;padding-right:20px;float:left}
+.container {
+	width:500px;
+	margin: 0 auto;
+}
+
+
+.stg {color: white;
+    background: #9e9e9e;
+    background-size: 55px;
+    font-size: 55px;
+    padding: 20;
+    float: left;
+    width: 8000;
+    margin: 20;}
+
+
+
+
+
+
+
+</style>
